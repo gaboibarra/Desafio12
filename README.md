@@ -57,4 +57,15 @@ Por este motivo, procedí a eliminarlos para evitar conflictos y mantener el pro
 
 ---
 
+## Paso 7 Probar e instalar el Chart
+
+![image](https://github.com/user-attachments/assets/f479dfc3-d2e7-42b3-aac1-ec6df2143e19)
+
+---
+Este error se refiere a que en mi cluster ya hay un educacionit-app desplegado Durante el desarrollo y pruebas de los desafíos anteriores (Desafíos 10 y 11) 
+los recursos de Kubernetes —como Deployments y Services para la aplicación educacionit-app y la base de datos MongoDB— fueron creados manualmente mediante manifiestos YAML aplicados directamente con kubectl.
+Para evitar este conflicto, tome la decisión de eliminar todos los recursos creados previamente de forma manual, permitiendo así que Helm pueda desplegar los suyos propios y asumir correctamente la gestión de dichos objetos
+---
+
+
 
