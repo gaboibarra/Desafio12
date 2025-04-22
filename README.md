@@ -14,3 +14,14 @@ Este proyecto desarrolla un Helm Chart personalizado para desplegar la aplicaci�
 ---
 
 ## 🧱 Estructura del Chart
+
+```bash
+educacionit-chart/
+├── Chart.yaml
+├── values.yaml
+└── templates/
+    ├── app-deployment.yaml
+    ├── app-service.yaml
+    ├── mongo-deployment.yaml
+    └── mongo-service.yaml
+```
