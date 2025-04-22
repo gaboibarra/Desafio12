@@ -25,6 +25,12 @@ Este proyecto desarrolla un Helm Chart personalizado para desplegar la aplicaci�
 
 ---
 
+## Paso 1 Crear el Helm Chart
+
+![image](https://github.com/user-attachments/assets/c35d1c55-4056-4c84-93b3-63e6877aeb7b)
+
+---
+
 ## 🧱 Estructura del Chart
 
 ```bash
@@ -39,6 +45,17 @@ educacionit-chart/
 ```
 ## ⚙️ Configuración (`values.yaml`)
 
+![image](https://github.com/user-attachments/assets/07967101-2a36-409e-82bf-97708660236c)
 
+---
+
+🧹 Limpieza de archivos por defecto
+
+```bash
+Al ejecutar helm create educacionit-chart, Helm genera una plantilla completa con varios archivos preconfigurados, como deployment.yaml, service.yaml, ingress.yaml, hpa.yaml, tests/test-connection.yaml, entre otros.
+En este desafío el objetivo es construir mis propios archivos personalizados para desplegar una aplicación educacionit-app junto a una base de datos MongoDB, estos archivos por defecto no son necesarios, si los dejo generan errores.
+Por este motivo, procedí a eliminarlos para evitar conflictos y mantener el proyecto limpio.
+```
+---
 
 
