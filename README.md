@@ -106,6 +106,6 @@ Al momento de la captura, los pods aún estaban en proceso de creación (Contain
 
 ---
 
-🧑‍💻 Autor
-Gabriel Ibarra – Desafío 12
-DevOps Bootcamp – 2024
+👤 Autor
+Gabriel Ibarra
+Desafío 12 – DevOps Bootcamp 2024
