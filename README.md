@@ -11,6 +11,10 @@ Este proyecto desarrolla un Helm Chart personalizado para desplegar la aplicaci�
 ✅ Gestionar correctamente los deployments de la app y MongoDB  
 ✅ Documentar el proceso completo y evidenciar despliegue exitoso  
 
+## ⚙️ Instalar Helm - (En este caso via Chocolatey Windows)
+
+![image](https://github.com/user-attachments/assets/46cd76f1-b298-4549-8206-1e84ed29652b)
+
 ---
 
 ## 🧱 Estructura del Chart
@@ -25,3 +29,8 @@ educacionit-chart/
     ├── mongo-deployment.yaml
     └── mongo-service.yaml
 ```
+## ⚙️ Configuración (`values.yaml`)
+
+
+
+
