@@ -11,9 +11,17 @@ Este proyecto desarrolla un Helm Chart personalizado para desplegar la aplicaci�
 ✅ Gestionar correctamente los deployments de la app y MongoDB  
 ✅ Documentar el proceso completo y evidenciar despliegue exitoso  
 
+---
+
 ## ⚙️ Instalar Helm - (En este caso via Chocolatey Windows)
 
 ![image](https://github.com/user-attachments/assets/46cd76f1-b298-4549-8206-1e84ed29652b)
+
+---
+
+## 🔎 Verificar la instalacion 
+
+![image](https://github.com/user-attachments/assets/8171b206-a5f3-4b89-8914-823ea95a5051)
 
 ---
 
