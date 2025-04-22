@@ -25,7 +25,7 @@ Este proyecto desarrolla un Helm Chart personalizado para desplegar la aplicaci√
 
 ---
 
-## Paso 1 Crear el Helm Chart
+## Crear el Helm Chart
 
 ![image](https://github.com/user-attachments/assets/c35d1c55-4056-4c84-93b3-63e6877aeb7b)
 
@@ -57,7 +57,7 @@ Por este motivo, proced√≠ a eliminarlos para evitar conflictos y mantener el pro
 
 ---
 
-## Paso 7 Probar e instalar el Chart
+## Probar e instalar el Chart
 
 ![image](https://github.com/user-attachments/assets/f479dfc3-d2e7-42b3-aac1-ec6df2143e19)
 
