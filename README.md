@@ -4,6 +4,19 @@ Este proyecto desarrolla un Helm Chart personalizado para desplegar la aplicaci�
 
 ---
 
+## 💻 Tecnologías utilizadas
+
+| Herramienta          | Descripción                                        |
+|----------------------|----------------------------------------------------|
+| 🐳 **Kubernetes**     | Orquestador de contenedores                       |
+| 📦 **Helm**           | Gestor de paquetes para Kubernetes                |
+| 🧠 **NestJS**         | Framework backend de la aplicación principal      |
+| 🍃 **MongoDB**        | Base de datos NoSQL para persistencia             |
+| 💻 **Docker**         | Motor de contenedores para ejecutar y probar apps |
+| 🧪 **kubectl**        | CLI para gestión del clúster Kubernetes           |
+
+---
+
 ## 🎯 Objetivo
 
 ✅ Eliminar la duplicación de manifiestos YAML  
