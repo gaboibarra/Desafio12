@@ -49,7 +49,7 @@ educacionit-chart/
 
 ---
 
-🧹 Limpieza de archivos por defecto
+## 🧹 Limpieza de archivos por defecto
 
 Al ejecutar helm create educacionit-chart, Helm genera una plantilla completa con varios archivos preconfigurados, como deployment.yaml, service.yaml, ingress.yaml, hpa.yaml, tests/test-connection.yaml, entre otros.
 En este desafío el objetivo es construir mis propios archivos personalizados para desplegar una aplicación educacionit-app junto a una base de datos MongoDB, estos archivos por defecto no son necesarios, si los dejo generan errores.
