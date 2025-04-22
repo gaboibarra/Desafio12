@@ -81,9 +81,18 @@ Para evitar este conflicto, tome la decisión de eliminar todos los recursos cre
 
 ![image](https://github.com/user-attachments/assets/e5d7f305-0349-4552-bd36-8c06c5e7cd17)
 
+⚠️ Asegurarse de haber eliminado cualquier Deployment, Service o Release previo con el mismo nombre antes de instalar.
 
+---
 
+## 🧪 Verificación del despliegue
 
+![image](https://github.com/user-attachments/assets/3c8fce30-481d-4665-9f70-492d3338d0e7)
 
+Al momento de la captura, los pods aún estaban en proceso de creación (ContainerCreating) debido a la descarga inicial de la imagen desde Docker Hub. Se verificó posteriormente que el estado cambia a Running tras completar el image pull.
 
+---
 
+🧑‍💻 Autor
+Gabriel Ibarra – Desafío 12
+DevOps Bootcamp – 2024
