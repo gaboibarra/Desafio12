@@ -77,6 +77,11 @@ Para evitar este conflicto, tome la decisión de eliminar todos los recursos cre
 
 ---
 
+## 🚀 Instalación del Chart
+
+![image](https://github.com/user-attachments/assets/e5d7f305-0349-4552-bd36-8c06c5e7cd17)
+
+
 
 
 
