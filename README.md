@@ -65,6 +65,20 @@ Este error se refiere a que en mi cluster ya hay un educacionit-app desplegado D
 los recursos de Kubernetes como Deployments y Services para la aplicación educacionit-app y la base de datos MongoDB fueron creados manualmente mediante manifiestos YAML aplicados directamente con kubectl.
 Para evitar este conflicto, tome la decisión de eliminar todos los recursos creados previamente de forma manual, permitiendo así que Helm pueda desplegar los suyos propios y asumir correctamente la gestión de dichos objetos
 
+---
+
+![image](https://github.com/user-attachments/assets/ab132630-590a-4b53-a4c5-df3c6c99d164)
+
+![image](https://github.com/user-attachments/assets/61d63fdc-564b-424f-8f75-ded6e1eb7bb3)
+
+![image](https://github.com/user-attachments/assets/eeb91be6-be3f-418e-b365-1043ba846c7e)
+
+![image](https://github.com/user-attachments/assets/2ec92494-4a7d-4d7a-bf7d-2fb8ecb0a46e)
+
+---
+
+
+
 
 
 
